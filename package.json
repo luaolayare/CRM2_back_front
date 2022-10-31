@@ -1,5 +1,5 @@
 {
-  "name": "support_desk",
+  "name": "Crm_ticket",
   "version": "1.0.0",
   "description": "Support ticket app",
   "main": "index.js",
